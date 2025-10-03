@@ -77,7 +77,7 @@ Deployment: (Optional) Render/Heroku (backend) + Vercel/Netlify (frontend)
 
 ## ⚙️ Setup Instructions
 1. Clone the Repository
-git clone https://github.com/your-username/book-review-platform.git
+git clone https://github.com/AbhienayaSri9509/book-review-platform.git
 cd book-review-platform
 
 2. Backend Setup
